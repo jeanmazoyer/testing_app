@@ -13,5 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require masonry.pkgd.min.js
+//= boxlayout.js
+//= modernizr.custom.js
 //= require bootstrap
 //= require_tree .
